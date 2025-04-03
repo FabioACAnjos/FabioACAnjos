@@ -1,4 +1,3 @@
-# FabiodosAnjos
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=66cdaa&height=180&section=header&text=Fabio+Alves+Costa+dos+Anjos&fontSize=35&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
